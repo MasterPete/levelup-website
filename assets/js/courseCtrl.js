@@ -3,7 +3,7 @@ function programCtrl($scope) {
     {
       week: "Week 1",
       summary: "Introduction / Agile Fundamentals / Team forming",
-      description: "<p>Welcome to the program! We'll start by showing you how software development works in the real world - what's good, what's bad, and why we're all about agile. </p> <p>Once we're all grounded, we'll introduce you to the project you'll be working on (spoiler - its a video game), and we'll the teams that you'll be delivering in!</p>",
+      description: "<p>Welcome to the program! We'll start by showing you how software development works in the real world - what's good, what's bad, and why we're all about agile. </p> <p>Once we're all grounded, we'll introduce you to the project you'll be working on (spoiler - its a video game), and we'll setup the teams that you'll be delivering in!</p>",
       preReading: [
         {
           link: "www.youtube.com/watch?v=GI2fP2Z_Wmo‎",
@@ -64,7 +64,7 @@ function programCtrl($scope) {
     {
       week: "Week 5",
       summary: "Project work / Guest lectures",
-      description: "Halfway! Now its time for the serious heavy lifting on your project. As project teams, you'll decide what help you need and what (if any) theory you want us to teach to help you get your software over the line.",
+      description: "Halfway! Now its time for the serious heavy lifting on your project. As project teams, you'll decide what help you need and what (if any) theory you want us to teach to help you get your software over the line. Plus planning and elaboration of features to be built, standups and mini showcases and retrospectives ",
       preReading: [
         {
           link: "http://www.youtube.com/watch?v=T6DJcgm3wNY",
@@ -79,7 +79,7 @@ function programCtrl($scope) {
     {
       week: "Week 6",
       summary: "Project work / Guest lectures",
-      description: "Halfway! Now its time for the serious heavy lifting on your project. As project teams, you'll decide what help you need and what (if any) theory you want us to teach to help you get your software over the line.",
+      description: "More development of features from the backlog as teams, trying to adopt outputs from the retrospective to improve delivery. Rotation of roles to give people the opportunity to step outside their comfort zone. Plus any support that you fellas need to get things done.",
       preReading: [
         {
           link: "http://www.youtube.com/watch?v=T6DJcgm3wNY",
@@ -94,7 +94,7 @@ function programCtrl($scope) {
     {
       week: "Week 7",
       summary: "Project work / Guest lectures",
-      description: "Halfway! Now its time for the serious heavy lifting on your project. As project teams, you'll decide what help you need and what (if any) theory you want us to teach to help you get your software over the line.",
+      description: "Week 3 of delivery with continued focus on completing features. Starting to realise time is running out and that we need to make sure the most valuable and important features are released",
       preReading: [
         {
           link: "http://www.youtube.com/watch?v=T6DJcgm3wNY",
@@ -109,7 +109,7 @@ function programCtrl($scope) {
     {
       week: "Week 8",
       summary: "Project work / Guest lectures",
-      description: "Halfway! Now its time for the serious heavy lifting on your project. As project teams, you'll decide what help you need and what (if any) theory you want us to teach to help you get your software over the line.",
+      description: "Final week for delivery. Take that chance to do something you havent done before in the project team. And that last minute rush to ensure things are done",
       preReading: [
         {
           link: "http://www.youtube.com/watch?v=T6DJcgm3wNY",
@@ -124,7 +124,7 @@ function programCtrl($scope) {
     {
       week: "Week 9",
       summary: "Showcase / Retro",
-      description: "Done? Lets see some working software! Time to show off what we've delivered, and then look back to learn from the journey. What have we learned on this project that we could use to do better next time? After that, we'll cap off the semester in style with some social drinks, and celebrate your first software project!",
+      description: "Done? Lets see some working software! Time to show off what we've delivered in a final showcase, and then look back to learn from the journey. What have we learned on this project that we could use to do better next time? After that, we'll cap off the semester in style with some social drinks, and celebrate your first software project!",
       preReading: [
         {
           link: "http://www.youtube.com/watch?v=T6DJcgm3wNY",
